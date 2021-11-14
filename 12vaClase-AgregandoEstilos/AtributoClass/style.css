@@ -1,0 +1,10 @@
+#Id-Texto-Dorado{
+    color : gold;
+}
+#Id-Texto{
+    background-color: green ;
+    color : white
+}
+.mayuscula{
+    text-transform: uppercase ;
+}
